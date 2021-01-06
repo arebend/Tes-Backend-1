@@ -1,1 +1,7 @@
 # Tes-Backend-1
+
+## Introduction
+
+This repository is to answer the first backend test for the backend developer recruitment process at NusanTech.
+## this is the screenshot of the output
+[![Output](test.png)]()
